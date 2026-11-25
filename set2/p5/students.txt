@@ -1,0 +1,6 @@
+S101,Inday Kalamansi,BSIT-A,86.0
+S102,Dodong Lechon,BSIT-B,90.0
+S103,Kikay Ensaymada,BSIT-A,89.0
+S104,Tolits Bibingka,BSIT-B,82.0
+S105,Bebang Turon,BSIT-A,92.0
+S106,Charles Babbage,BSIT-A,90.0
